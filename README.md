@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-asokan
-- 👀 I’m interested in CompVis, AI, and ML
-- 🌱 I’m currently learning Robotics
+- 👀 I’m interested in CompVis, AI, ML, and Data Science and Analysis techniques 
+- 🌱 I’m currently doing a Master's in Artificial Intelligence
 - 📫 How to reach me aparna.askn@gmail.com
 
 <!---
